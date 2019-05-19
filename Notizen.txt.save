@@ -1,0 +1,9 @@
+Sortieren: 
+
+Länge des Arrays: obj.lenth
+
+Ich vergleiche die erste Zahl mit allen anderen. Wenn sie nicht die größte ist, geht es weiter.
+Wenn sie die größte ist, landet sie an Platz 1 eines neuen Arrays. 
+Ihr Platz wird in einem Skip-Array festgehalten und beim nächsten Durchgang übersprungen. 
+
+Es gibt das Array, und das Sortierte Array. 
